@@ -1,2 +1,2 @@
 # pythonconsoledb-
-It contains a complex implementation of creating a database, table and input from console. No db import required
+It contains a python 3.7 implementation of creating a database, a table and inserting data from user input and displaying data on console window. No db import required
